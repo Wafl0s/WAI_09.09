@@ -30,7 +30,7 @@ th, td{
 }
 
 th {
-    background-color: #0024c2;
+    background-color: #008000;
     color: white;
 }
 
@@ -86,7 +86,7 @@ th {
 }
 
 .tab_3 th {
-    background-color: #d60000;
-    color: #8dffdd;
+    background-color: #ffa500;
+    color: #0000ff;
     width: 200px;
 }
